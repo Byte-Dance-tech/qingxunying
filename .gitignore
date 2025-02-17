@@ -1,1 +1,14 @@
- 
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# 数据库文件
+*.db
+
+# 下载的数据
+downloaded_images/*
+crawled_data/
+
+# 系统文件
+.DS_Store
