@@ -42,6 +42,7 @@ python url_generator.py
 python check_status.py
 
 ## 项目结构
+bash
 ├── main.py # 主程序入口，协调所有组件
 ├── config.py # 配置文件，包含Redis、URL和爬虫设置
 ├── crawler.py # 爬虫核心组件，负责下载图片
